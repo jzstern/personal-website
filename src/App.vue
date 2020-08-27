@@ -7,10 +7,12 @@
       <router-link class="route" to="/dev">🏗</router-link>
       <router-link class="route" to="/design">🧩</router-link>
       <router-link class="route" to="/music">🎧</router-link>
-      <router-link class="route" to="/misc">💠</router-link>
-      <Links />
+      <!-- <router-link class="route" to="/misc">💠</router-link> -->
+      <Links v-show="$route.name === 'Home'" />
     </div>
+    <!-- <transition name="medium-fade"> -->
     <router-view />
+    <!-- </transition> -->
   </div>
 </template>
 
@@ -31,10 +33,12 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   // color: #2c3e50;
   color: white;
+  overscroll-behavior: none;
   overflow: hidden;
   padding: 30px;
 
-  height: 100vh;
+  min-height: 100vh;
+  height: 100%;
   background: rgb(50, 36, 46);
   background: linear-gradient(
     153deg,
@@ -56,6 +60,11 @@ export default {
       text-decoration: underline;
     }
   }
+}
+
+body {
+  overscroll-behavior: none;
+  // overflow: hidden;
 }
 
 #nav {

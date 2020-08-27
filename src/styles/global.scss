@@ -10,3 +10,12 @@
   -webkit-transition: all 0.25s ease;
   -moz-transition: all 0.25s ease;
 }
+
+.medium-fade-enter-active,
+.medium-fade-leave-active {
+  transition: opacity .4s ease;
+}
+.medium-fade-enter,
+.medium-fade-leave-to {
+  opacity: 0;
+}

@@ -2,7 +2,7 @@
   <div class="about">
     <h1>Music</h1>
     <h3>My life is engulfed in sound 🔊</h3>
-    <p>I don't post much publicly, but one of my favorite hobbies is making music & DJing</p>
+    <p>I don't post much publicly, but one of my favorite hobbies is creating music & DJing</p>
 
     <iframe
       src="https://audius.co/embed/track?id=69043&ownerId=499&flavor=compact"

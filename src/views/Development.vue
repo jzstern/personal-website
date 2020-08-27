@@ -17,7 +17,7 @@
       <a href="https://devfolio.co/submissions/bound">Bound</a>
     </h4>
     <span>
-      ETH Denver hackathon project finalist. Watch me
+      ETH Denver 2020 hackathon project finalist. Watch me
       <a
         href="https://www.youtube.com/watch?v=hFr8ly7EFJs&feature=youtu.be&t=4669"
       >nearly trip over Vitalik</a>.
@@ -34,7 +34,7 @@
     <h4>This Website</h4>
     <span>
       Peep the
-      <a href="#">source code</a>
+      <a href="https://github.com/jzstern/personal-website">source code</a>
     </span>
 
     <h4>Other Work</h4>

@@ -1,5 +1,5 @@
 <template>
-  <div id="links">
+  <div id="links" :class="{mobile: mobile}">
     <a href="mailto:jeremy@loft.radio">Email</a>
     <a href="https://github.com/jzstern/">Github</a>
     <a href="https://twitter.com/jzstern">Twitter</a>
@@ -10,7 +10,13 @@
 
 <script>
 export default {
-  name: "Links"
+  name: "Links",
+  data: () => ({
+    mobile: null
+  }),
+  beforeMount() {
+    this.mobile = window.innerWidth <= 650;
+  }
 };
 </script>
 
@@ -27,12 +33,20 @@ export default {
   align-items: flex-end;
   align-self: flex-end;
   flex-grow: 100;
+  z-index: 10;
 }
 
 a {
   filter: brightness(2);
   &:hover {
     color: white !important;
+  }
+}
+
+.mobile {
+  margin-top: 350px;
+  a {
+    font-size: 20px !important;
   }
 }
 </style>

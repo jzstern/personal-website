@@ -25,11 +25,11 @@ const routes = [
     name: "Music",
     component: () => import(/* webpackChunkName: "music" */ "../views/Music.vue")
   },
-  {
-    path: "/misc",
-    name: "Misc",
-    component: () => import(/* webpackChunkName: "misc" */ "../views/Misc.vue")
-  },
+  // {
+  //   path: "/misc",
+  //   name: "Misc",
+  //   component: () => import(/* webpackChunkName: "misc" */ "../views/Misc.vue")
+  // },
 ];
 
 const router = new VueRouter({
