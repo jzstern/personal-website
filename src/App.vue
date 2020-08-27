@@ -8,7 +8,7 @@
       <router-link class="route" to="/design">🧩</router-link>
       <router-link class="route" to="/music">🎧</router-link>
       <!-- <router-link class="route" to="/misc">💠</router-link> -->
-      <Links v-show="$route.name === 'Home'" />
+      <Links v-show="showLinks" :mobile="mobile" />
     </div>
     <!-- <transition name="medium-fade"> -->
     <router-view />
@@ -20,6 +20,17 @@
 export default {
   components: {
     Links: () => import("./components/Links")
+  },
+  computed: {
+    showLinks() {
+      return (this.$route.name === "Home" && this.mobile) || !this.mobile;
+    }
+  },
+  data: () => ({
+    mobile: null
+  }),
+  beforeMount() {
+    this.mobile = window.innerWidth <= 650;
   }
 };
 </script>

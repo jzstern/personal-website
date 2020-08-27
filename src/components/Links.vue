@@ -11,11 +11,11 @@
 <script>
 export default {
   name: "Links",
-  data: () => ({
-    mobile: null
-  }),
-  beforeMount() {
-    this.mobile = window.innerWidth <= 650;
+  props: {
+    mobile: {
+      type: Boolean,
+      default: false
+    }
   }
 };
 </script>
