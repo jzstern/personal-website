@@ -6,12 +6,12 @@
     <h4>
       <a href="https://imgur.com/a/NPnKfyD">Lightning App Store</a>
     </h4>
-    <p>Application catalog of Bitcoin's Lightning Network apps, completed for a design challenge. Ask me about the details!</p>
+    <p>Catalog of Bitcoin's Lightning Network apps, completed as a design challenge. AMA about the process!</p>
 
     <h4>
       <a href="https://imgur.com/8hHylXW">Stablecoins.io</a>
     </h4>
-    <p>Idea for an educational site on stablecoins</p>
+    <p>Conceptual educational site on stablecoins</p>
 
     <h4>
       <a href="https://imgur.com/a/eVDXUfz">Flight Fund</a>
