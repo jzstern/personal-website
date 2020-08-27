@@ -1,0 +1,53 @@
+<template>
+  <div>
+    <h1>Design</h1>
+    <h3>I spend a lot of time thinking about UX 💭</h3>
+
+    <h4>
+      <a href="https://imgur.com/a/NPnKfyD">Lightning App Store</a>
+    </h4>
+    <p>Application catalog of Bitcoin's Lightning Network apps, completed for a design challenge. Ask me about the details!</p>
+
+    <h4>
+      <a href="https://imgur.com/8hHylXW">Stablecoins.io</a>
+    </h4>
+    <p>Idea for an educational site on stablecoins</p>
+
+    <h4>
+      <a href="https://imgur.com/a/eVDXUfz">Flight Fund</a>
+    </h4>
+    <p>Snuck into ETH Denver 2019 and whipped up some designs for a friend's project</p>
+
+    <h4>
+      <a href="https://imgur.com/gallery/lltFBLZ">Rocky Road</a>
+    </h4>
+    <p>I wanted to go skiing but couldn't get a ride...</p>
+
+    <h4>Secret Door (coming soon 🤫)</h4>
+    <span>
+      Creative album launch site for
+      <a
+        href="https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ"
+      >Cam O'bi</a>
+    </span>
+
+    <br />
+    <br />
+    <h4>Assorted Dribbble Shots</h4>
+    <ul>
+      <li>
+        <a
+          href="https://static.dribbble.com/users/3030370/screenshots/5868967/day_4__calculator_-_view_2_.png"
+        >Crypto converter</a>
+      </li>
+      <li>
+        <a href="https://imgur.com/gallery/6SqUjdY">Mobile checkout</a>
+      </li>
+      <li>
+        <a
+          href="https://static.dribbble.com/users/3030370/screenshots/5904993/settings.png"
+        >Mobile settings</a>
+      </li>
+    </ul>
+  </div>
+</template>
