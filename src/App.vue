@@ -44,12 +44,12 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   // color: #2c3e50;
   color: white;
-  overscroll-behavior: none;
-  overflow: hidden;
+  // overscroll-behavior: none;
+  // overflow: hidden;
   padding: 30px;
 
-  min-height: 100vh;
-  height: 100%;
+  min-height: calc(100vh - 60px);
+  // height: 100%;
   background: rgb(50, 36, 46);
   background: linear-gradient(
     153deg,
@@ -75,7 +75,7 @@ export default {
 
 body {
   overscroll-behavior: none;
-  // overflow: hidden;
+  overflow: auto;
 }
 
 #nav {
