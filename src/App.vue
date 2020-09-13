@@ -61,7 +61,6 @@ export default {
   padding: 30px;
 
   min-height: calc(100vh - 60px);
-  // height: 100%;
   background: rgb(50, 36, 46);
   background: linear-gradient(
     153deg,

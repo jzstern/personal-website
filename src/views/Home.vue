@@ -30,12 +30,6 @@ export default {
 </script>
 
 <style scoped lang="scss">
-// @font-face {
-//   font-family: "Sporting Grotesque_Regular";
-//   src: url("../assets/Sporting_Grotesque-Bold_web.ttf");
-//   font-weight: normal;
-//   font-style: normal;
-// }
 li {
   list-style-type: none;
   list-style-position: inside;

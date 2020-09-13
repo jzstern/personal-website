@@ -9,7 +9,9 @@
     <p>Catalog of Bitcoin's Lightning Network apps, completed as a design challenge. AMA about the process!</p>
 
     <h4>
-      <a href="https://slate.host/jzstern/stablecoinsio">Stablecoins.io</a>
+      <a
+        href="https://slate.textile.io/ipfs/bafybeigp6ta64n3xzp42uu6eam6iq3b7gaamy2of55pmg3gyf7dmavumxm"
+      >Stablecoins.io</a>
     </h4>
     <p>Conceptual educational site on stablecoins</p>
 
