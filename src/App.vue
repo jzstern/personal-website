@@ -37,9 +37,21 @@ export default {
 
 <style lang="scss">
 @import "./styles/global.scss";
+@font-face {
+  font-family: "moderat";
+  src: url("./assets/Moderat-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "moderat-medium";
+  src: url("./assets/Moderat-Medium.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
 
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Moderat, Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   // color: #2c3e50;
@@ -57,6 +69,10 @@ export default {
     rgba(30, 46, 46, 1) 50%,
     rgba(44, 51, 30, 1) 100%
   );
+
+  h1 h2 h3 h4 h5 {
+    font-family: "moderat-medium";
+  }
 
   h4 {
     margin-block-start: 1.6em;

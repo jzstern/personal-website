@@ -23,24 +23,26 @@
       >nearly trip over Vitalik</a>.
     </span>
 
-    <h4>Secret Door (coming soon 🤫)</h4>
+    <h4>
+      <a href="https://secretdoor.world/">Secret Door</a> (coming soon 🤫)
+    </h4>
     <span>
       Creative album launch site for
       <a
         href="https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ"
-      >Cam O'bi</a>
+      >Cam O'bi</a>.
     </span>
 
     <h4>This Website</h4>
     <span>
-      Peep the
-      <a href="https://github.com/jzstern/personal-website">source code</a>
+      View the
+      <a href="https://github.com/jzstern/personal-website">source code</a>.
     </span>
 
     <h4>Other Work</h4>
     <p>Have spent time at the following companies, mostly doing full stack engineering while wearing multiple hats</p>
     <ul>
-      <li>Octo Consulting</li>
+      <li>Connexta (Octo Consulting)</li>
       <li>Matter</li>
       <li>Mavrck</li>
       <li>Bose</li>

@@ -4,26 +4,28 @@
     <h3>I spend a lot of time thinking about UX 💭</h3>
 
     <h4>
-      <a href="https://imgur.com/a/NPnKfyD">Lightning App Store</a>
+      <a href="https://slate.host/jzstern/lightning-app-store">Lightning App Store</a>
     </h4>
     <p>Catalog of Bitcoin's Lightning Network apps, completed as a design challenge. AMA about the process!</p>
 
     <h4>
-      <a href="https://imgur.com/8hHylXW">Stablecoins.io</a>
+      <a href="https://slate.host/jzstern/stablecoinsio">Stablecoins.io</a>
     </h4>
     <p>Conceptual educational site on stablecoins</p>
 
     <h4>
-      <a href="https://imgur.com/a/eVDXUfz">Flight Fund</a>
+      <a href="https://slate.host/jzstern/flight-fund">Flight Fund</a>
     </h4>
     <p>Snuck into ETH Denver 2019 and whipped up some designs for a friend's project</p>
 
     <h4>
-      <a href="https://imgur.com/gallery/lltFBLZ">Rocky Road</a>
+      <a href="https://slate.host/jzstern/rocky-road">Rocky Road</a>
     </h4>
     <p>I wanted to go skiing but couldn't get a ride...</p>
 
-    <h4>Secret Door (coming soon 🤫)</h4>
+    <h4>
+      <a href="https://secretdoor.world/">Secret Door</a> (coming soon 🤫)
+    </h4>
     <span>
       Creative album launch site for
       <a

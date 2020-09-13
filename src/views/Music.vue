@@ -46,6 +46,9 @@
         >Audius</a>
       </li>
       <li>
+        <a href="https://fuxwithit.com/2020/04/20/matter-interview/">Matter</a>
+      </li>
+      <li>
         <a href="https://fuxwithit.com/2019/12/20/mr-carmack-interview/">Mr. Carmack</a>
       </li>
       <li>
